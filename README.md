@@ -17,9 +17,9 @@ He has previously worked as a freelancer in finance- and software-related projec
 * [GitHub (more active on Gitlab)](https://github.com/janspoerer)
 * [Twitter](https://twitter.com/JanSpoerer)
 ### Entrepreneurship-related
-* [21e6](https://assets.21e6.io/)
 * [Spoerico](https://spoerico.com/)
 * [LinkedIn](https://www.linkedin.com/in/janspoerer/)
+* [21e6 (business closed)](https://assets.21e6.io/)
 ### Research-related
 * [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3917972)
 * [Researchgate](https://www.researchgate.net/profile/Jan-Spoerer)
