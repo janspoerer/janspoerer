@@ -2,6 +2,10 @@
 
 I am a software developer and natural language processing researcher. I develop agentic AI systems for the retrieval of information from comprehensive financial documents.
 
+## Work
+
+As of 2025, I apply the insights from my dissertation in various corporate AI projects. My biggest interest is in agentic AI systems that are able to bridge between the "external world" and the "internal world" safely. I connect agents that have access to various levels of organizational resources to enable them to process public data and customer requests in the context of internal resources, and to write these results back to internal databases. 
+
 Previous work: E-Commerce (HD24), banking (Commerzbank), freelancer in finance- and software-related projects. Helped startups raise money, implement AI workflows in internal and customer-facing systems, and created software-based solutions for portfolio managers. 
 
 ## Education
