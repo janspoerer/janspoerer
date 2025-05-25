@@ -1,10 +1,14 @@
 # About Jan Spörer
 
-Jan is a software developer, natural language processing researcher, and crypto investing professional.
+I am a software developer and natural language processing researcher. I develop agentic AI systems for the retrieval of information from comprehensive financial documents.
 
-He holds a B.Sc. in International Management from WHU - Otto Beisheim School of Management, a M.Sc. in Applied Data Science from Frankfurt School of Finance & Management, and is writing his Ph.D. dissertation in Natural Language Processing at the University of St. Gallen.
+Previous work: E-Commerce (HD24), banking (Commerzbank), freelancer in finance- and software-related projects. Helped startups raise money, implement AI workflows in internal and customer-facing systems, and created software-based solutions for portfolio managers. 
 
-He has previously worked as a freelancer in finance- and software-related projects. He has helped startups to raise money and has created software-based solutions for portfolio managers.
+## Education
+
+- Writing my Ph.D. dissertation in Natural Language Processing at the University of St. Gallen.
+- M.Sc. in Applied Data Science from Frankfurt School of Finance & Management.
+- B.Sc. in International Management from WHU - Otto Beisheim School of Management.
 
 ## Writing & on the News
 * [Personal Blog](https://janspoerer.github.io/secondbrain/)
@@ -18,7 +22,7 @@ He has previously worked as a freelancer in finance- and software-related projec
 * [Twitter](https://twitter.com/JanSpoerer)
 ### Entrepreneurship-related
 * [Spoerico](https://spoerico.com/)
-* [LinkedIn](https://www.linkedin.com/in/janspoerer/)
+* [LinkedIn](https://www.linkedin.com/in/jan-spoerer/)
 * [21e6 (business closed)](https://assets.21e6.io/)
 ### Research-related
 * [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3917972)
